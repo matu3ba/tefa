@@ -1,5 +1,9 @@
 # Tefa - Test Fast
 
+After having learnt way too much of the C family shennanigans, I don't think a test framework can
+comprehend all the possible hacks and must make assumptions about the context enforced via (user) macros.
+C trades a very weak formal model for a huge class of semantics code may have (via macros).
+
 Experiments with C, testing and abi.
 
 Minimal, simple, fast and composable testing framework.
